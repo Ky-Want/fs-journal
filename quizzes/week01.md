@@ -17,7 +17,7 @@ The 'cd' command is used for changing directories, hence it's longer name 'chang
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+The beginning and the end of an HTML document
 ```
 
 
@@ -57,26 +57,28 @@ If you want to make a font bold you use the '<strong></strong>' tag.
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+Most of our code is stored in <div></div> tags.
 ```
 
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+Unordered list: <ul>
+Ordered list: <ol>
+and Description: list <li>
 ```
 
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property sets how a flex item will grow or shrink to fit in its container.
 ```
 
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+The properties that affect the size of a box model are the width, the height, the padding, the border, and the margin.
 ```
