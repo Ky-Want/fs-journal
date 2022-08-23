@@ -43,7 +43,7 @@ CSS stands for cascading style sheet.
 ```
 <!-- enter you answer in the space below -->
 ```
-
+Selectors, properties, and values are the components that make up a css rule.
 ```
 
 
