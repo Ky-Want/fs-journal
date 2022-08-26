@@ -25,7 +25,6 @@ const, var, and let are keywords used to declare variables.
 ```js
 let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 ```
-
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
