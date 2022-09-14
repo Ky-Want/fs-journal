@@ -38,20 +38,20 @@ API stands for application programming interface, which is a set of definitions 
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
+The Controller.
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+To keep our code safe from malicious users.
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+HTTP response status codes indicate whether a specific HTTP request has been successfully completed.
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+An HTTP 500 internal server error means your web server is experiencing problems, but it can't pinpoint the specific error or its root causes. When this happens, your website will serve up a general internal server error web page to your site's visitors.
 ```
