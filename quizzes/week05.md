@@ -3,7 +3,7 @@
 **1.** What do the letters of the acronym `CRUD` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+CRUD refers to the four functions that are considered necessary to implement a persistent storage application: create, read, update and delete.
 ```
 **2.** Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 <!-- enter you answer in the space below -->
