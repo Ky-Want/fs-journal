@@ -21,16 +21,12 @@ Object-Relational Mapping (ORM), and the PyMongo MongoDB ORM for Python is a nat
 HTTP request bodies are theoretically allowed for all methods except TRACE, however they are not commonly used except in PUT, POST and PATCH. Because of this, they may not be supported properly by some client frameworks, and you should not allow request bodies for GET, DELETE, TRACE, OPTIONS and HEAD methods.
 ```
 
-
-
-<!-- FIXME -->
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
-
+synchronous programming, and asynchronous programming.
 ```
 
-<!-- FIXME -->
 **6.** Fill in the missing piece of this snippet of code.
 ```js
 import ______ from "_______"
@@ -38,11 +34,10 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
+import defaultExport from "module-name"
 
+let mongoose = require('mongoose');
 ```
-
-
-
 
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
@@ -50,22 +45,16 @@ let Schema = ________.Schema;
 Middleware is software that lies between an operating system and the applications running on it, enabling communication and data management.
 ```
 
-
-
-<!-- FIXME -->
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+data, and ETL
 ```
 
-
-
-
-<!-- FIXME -->
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+string winter1 = Request.QueryString["winter"];
+string winter2 = Request["winter"];
 ```
