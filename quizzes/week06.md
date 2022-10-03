@@ -14,7 +14,7 @@ while a page
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+You can use the v-repeat directive to repeat a template element based on an Array of objects on the ViewModel.
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
