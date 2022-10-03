@@ -45,7 +45,7 @@ Vue. js developer responsibilities include writing user-side logic with JavaScri
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
-
+App. vue : Your root Vue component, which contains the entire application. main. js : the entry point of the entire application's JavaScript code.
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
@@ -55,5 +55,5 @@ Vue. js developer responsibilities include writing user-side logic with JavaScri
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+In Vue, we use data to track changes to a particular property that we'd like to be reactive. Computed properties allow us to define a property
 ```
