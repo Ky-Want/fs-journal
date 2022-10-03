@@ -29,7 +29,7 @@ Liskov
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+Vue Router helps link between the browser's URL/History and Vue's components allowing for certain paths to render whatever view is associated with it.
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
