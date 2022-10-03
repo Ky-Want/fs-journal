@@ -40,7 +40,7 @@ The state object is where you store property values that belongs to the componen
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+Vue. js developer responsibilities include writing user-side logic with JavaScript, developing user-facing web applications and components. They also need to write robust, secure, scalable code and coordinate with other software developers and project managers.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
