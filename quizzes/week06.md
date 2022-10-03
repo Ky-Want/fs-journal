@@ -34,7 +34,8 @@ Vue Router helps link between the browser's URL/History and Vue's components all
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+AppState can tell you if the app is in the foreground or background, and notify you when the state changes. AppState is frequently used to determine the intent and proper behavior when handling push notifications.
+The state object is where you store property values that belongs to the component. When the state object changes, the component re-renders.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
