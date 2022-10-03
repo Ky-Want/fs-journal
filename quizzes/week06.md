@@ -50,7 +50,7 @@ App. vue : Your root Vue component, which contains the entire application. main.
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-
+In Vue. js, we can add an inline style to our element by binding the style attribute in the HTML tag. For reference, :style is shorthand for v-bind:style . Inline styling can be done in two ways: using object syntax or array syntax.Feb
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
