@@ -3,7 +3,7 @@
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->
 ```
-
+The package. json file is the heart of any Node project. It records important metadata about a project which is required before publishing to NPM, and also defines functional attributes of a project that npm uses to install dependencies, run scripts, and identify the entry point to our package.
 ``` 
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
