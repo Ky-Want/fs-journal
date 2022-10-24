@@ -1,5 +1,5 @@
 # Working in a Professional Environment
-
+ 
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
