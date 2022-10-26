@@ -1,6 +1,5 @@
 # C# Fundamentals
 
-
 **1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 ```
