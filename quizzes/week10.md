@@ -3,7 +3,7 @@
 **1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 ```
-
+The namespace keyword is used to declare a scope that contains a set of related objects. You can use a namespace to organize code elements and to create globally unique types.
 ```
 
 **2.** What is the difference between a `class` and a `struct`?
